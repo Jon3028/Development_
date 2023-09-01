@@ -8,3 +8,15 @@ Python-Django Soft Development
 <div align="center"> 
   <img src="Screenshot_2.jpg" width="">
 </div>
+<div align="center"> 
+  <img src="Screenshot_3.jpg" width="">
+</div>
+<div align="center"> 
+  <img src="Screenshot_3.jpg" width="">
+</div>
+<div align="center"> 
+  <img src="Screenshot_3.jpg" width="">
+</div>
+<div align="center"> 
+  <img src="Screenshot_6.jpg" width="">
+</div>
