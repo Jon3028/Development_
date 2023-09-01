@@ -6,5 +6,5 @@ Python-Django Soft Development
 </div>
 
 <div align="center"> 
-  <img src="https://photos.app.goo.gl/SPocwqnN2ESjdh8u8" width="">
+  <img src="Screenshot_2.jpg" width="">
 </div>
