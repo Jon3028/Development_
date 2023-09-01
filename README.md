@@ -6,5 +6,5 @@ Python-Django Soft Development
 </div>
 
 <div align="center"> 
-  <img src="https://photos.app.goo.gl/SnsmgLaCCURziGqP6" width="">
+  <img src="https://photos.google.com/share/AF1QipNacgA8lrGqHH_TasSmITMNMWQ8m3T2mIQXuEc66r1c38sNUpFxXjUWWg2cqVqxvQ/photo/AF1QipMCOXpFxhg1_TdFW7E6ZzRGZZNae3oPb2peXZzp?key=b0pITV9YcTU1aVdRNDdnbktaS1FpZ3hJZElubWdn" width="">
 </div>
